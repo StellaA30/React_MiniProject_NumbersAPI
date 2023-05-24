@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+#Wireframe for website
+
+![Screenshot 2023-05-24 at 17 26 32](https://github.com/StellaA30/React_MiniProject_NumbersAPI/assets/56633439/4fd1db32-9fdf-4c51-9077-5cda27d018f2)
+
 ## Available Scripts
 
 In the project directory, you can run:
